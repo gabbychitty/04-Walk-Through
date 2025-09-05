@@ -1,4 +1,2 @@
-# 04 Walkthrough
-Learn how to set up and use [GitHub Copilot](https://github.com/features/copilot) in your Codespace.
-
-To get started, create a new Codespace from this repo.
+my first website
+this project si about charity water
